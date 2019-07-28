@@ -1,2 +1,2 @@
-# MozillaTheme-blueBlur
-Thème Mozilla blueBlur
+# Thème Mozilla - BlueBlur
+
