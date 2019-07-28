@@ -1,10 +1,10 @@
 {
-  "description": "theme qui utilise un dégrader de bleu avec un effet blur",
+  "description": "theme bleu avec dégrader et effet blur",
   "manifest_version": 2,
   "author": "Nesios",
   "name": "blueBlur",
-  "version": "0.2",
-  "homepage_url": "https://github.com/N3siOS/MozillaTheme-blueBlur",
+  "version": "0.3",
+  "homepage_url": "https://github.com/N3siOS/myMozillaTheme",
   "icons": {
     "48": "icons/icon48.png",
     "96": "icons/icon96.png"
@@ -15,8 +15,11 @@
       "theme_frame": "background.png"
     },
     "colors": {
-      "frame": "#adb09f",
-      "tab_text": "#000"
+      "frame": "#fffcfc",
+      "tab_text": "#000",
+      "tab_line": "#0e0e0e",
+      "toolbar": "#8b8b8b",
+      "bookmark_text": "#000"
     }
   }
 }
