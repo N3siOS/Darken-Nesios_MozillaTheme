@@ -1,8 +1,14 @@
 {
   "description": "theme qui utilise un dégrader de bleu avec un effet blur",
   "manifest_version": 2,
+  "author": "Nesios",
   "name": "blueBlur",
-  "version": "0.1",
+  "version": "0.2",
+  "homepage_url": "https://github.com/N3siOS/MozillaTheme-blueBlur",
+  "icons": {
+    "48": "icons/icon48.png",
+    "96": "icons/icon96.png"
+  },
 
   "theme": {
     "images": {
