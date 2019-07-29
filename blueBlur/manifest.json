@@ -16,10 +16,17 @@
     },
     "colors": {
       "frame": "#fffcfc",
+      "accentcolor": "#0d0c0c",
       "tab_text": "#000",
       "tab_line": "#0e0e0e",
-      "toolbar": "#8b8b8b",
-      "bookmark_text": "#000"
+      "tab_background_text": "#262625",
+      "toolbar": "rgba(#8b8b8b,.21)",
+      "bookmark_text": "#000",
+      "icons_attention": "#ebe20d",
+      "ntp_background": "#0d0c0c",
+     "ntp_text": "#fff",
+     "popup_highlight": "#46a4f2",
+     "popup_highlight_text": "#000"
     }
   }
 }
