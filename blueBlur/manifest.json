@@ -16,7 +16,6 @@
     },
     "colors": {
       "frame": "#079fda",
-      "accentcolor": "rgba(#0d0c0c,.2)",
       "tab_text": "#000",
       "tab_line": "#0e0e0e",
       "tab_background_text": "#262625",
@@ -24,9 +23,9 @@
       "bookmark_text": "#000",
       "icons_attention": "#ebe20d",
       "ntp_background": "#0d0c0c",
-     "ntp_text": "#fff",
-     "popup_highlight": "#46a4f2",
-     "popup_highlight_text": "#000"
+      "ntp_text": "#fff",
+      "popup_highlight": "#46a4f2",
+      "popup_highlight_text": "#000"
     }
   }
 }
