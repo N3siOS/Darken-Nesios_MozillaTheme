@@ -1,9 +1,9 @@
 {
-  "description": "theme bleu avec dégrader et effet blur",
+  "description": "thème pour votre navigateur bleu avec dégrader et effet de flou",
   "manifest_version": 2,
   "author": "Nesios",
   "name": "blueBlur",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "homepage_url": "https://github.com/N3siOS/myMozillaTheme",
   "icons": {
     "48": "icons/icon48.png",
@@ -15,10 +15,10 @@
       "additional_backgrounds": ["background.png", "background__repeat.png"]
     },
     "poperties": {
-      "additional_backgrounds": ["right top" , "left top"]
+      "additional_backgrounds": ["left top" , "right top"]
     },
     "colors": {
-      "frame": "#079fda",
+      "frame": "#27b7f9",
       "tab_text": "#000",
       "tab_line": "#0e0e0e",
       "tab_background_text": "#262625",
