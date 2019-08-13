@@ -1,6 +1,8 @@
-# Thème Mozilla - BlueBlur
+# Thèmes Mozilla Firefox - by Nesios
 
-## Aperçu
+##Thème BlueBlur
+
+### Aperçu
 
 ![BlueBlur](/images/moztheme_blueblur.png)
 
