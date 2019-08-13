@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "author": "Nesios",
   "name": "blueBlur",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "homepage_url": "https://github.com/N3siOS/myMozillaTheme",
   "icons": {
     "48": "icons/icon48.png",
@@ -12,7 +12,10 @@
 
   "theme": {
     "images": {
-      "theme_frame": "background.png"
+      "additional_backgrounds": ["background.png", "background__repeat.png"]
+    },
+    "poperties": {
+      "additional_backgrounds": ["right top" , "left top"]
     },
     "colors": {
       "frame": "#079fda",
