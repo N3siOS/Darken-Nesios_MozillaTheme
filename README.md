@@ -8,7 +8,7 @@
 
 ---
 
-[Téléchargement](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.4.4/blueblur044.zip)
+[Téléchargement](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.4.4/blueblur-0.4.4-an+fx.xpi)
 
 ### Aperçu
 
