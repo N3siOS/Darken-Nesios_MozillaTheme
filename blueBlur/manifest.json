@@ -1,9 +1,9 @@
 {
-  "description": "thème pour votre navigateur bleu avec dégrader et effet de flou",
+  "description": "thème bleu pour votre navigateur Mozilla Firefox avec dégrader et effet de flou",
   "manifest_version": 2,
   "author": "Nesios",
   "name": "blueBlur",
-  "version": "0.4.4",
+  "version": "0.0.1",
   "homepage_url": "https://github.com/N3siOS/myMozillaTheme",
   "icons": {
     "48": "icons/icon48.png",
