@@ -1,0 +1,32 @@
+{
+  "description": "Thème noir pour votre navigateur Firefox. ",
+  "manifest_version": 2,
+  "author": "Nesios",
+  "name": "Darken",
+  "version": "0.1.2",
+  "homepage_url": "https://github.com/N3siOS/myMozillaTheme",
+  "icons": {
+    "48": "icons/icon48.png",
+    "96": "icons/icon96.png"
+  },
+
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["background.png", "background__repeat.png"]
+    },
+    "poperties": {
+      "additional_backgrounds": ["left top" , "right top"]
+    },
+    "colors": {
+      "frame": "#0D0C0C",
+      "tab_text": "#C4C4C4",
+      "tab_line": "#606060",
+      "tab_background_text": "#262625",
+      "toolbar": "#202020",
+      "bookmark_text": "#000",
+      "icons_attention": "#262625",
+      "ntp_background": "202020",
+      "ntp_text": "#E9E9E9"
+    }
+  }
+}
