@@ -27,7 +27,7 @@ Thème noir pour votre navigateur Mozilla Firefox.
 
 [Téléchargement  sur le site Addons.Mozilla](https://addons.mozilla.org/fr/firefox/addon/darken-nesios/)
 
-[Téléchargement de la version beta](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.1.2/darken-0.1.2-an+fx.xpi)
+[Téléchargement de la version beta](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.1.3/darken_beta-0.1.3-an+fx.xpi)
 
 
 ## Aperçu
