@@ -21,6 +21,7 @@ Thème sombre pour votre navigateur Mozilla Firefox.
 
     + (#1) Erreur de couleur sur la toolbar -> [#202020].
     + (#2) Modification des couleurs de texte trop sombre [#C4C4C4].
+    + (#6) Ajouts de nouvelles fonctionnalitées.
 
 ---
 
