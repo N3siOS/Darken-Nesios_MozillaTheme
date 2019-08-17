@@ -14,7 +14,7 @@ thème pour votre navigateur Firefox bleu avec dégrader et effet de flou.
 
 ### Dernières Modification 
 
-    + Résolution du problème d'image inverser. 3f255e335df8fcbfe7063d8bcf188a9793473963
+    + Résolution du problème d'image inverser. #2
     + Modification de la couleur de fond (#26B7F9).
     + Recadrage des images.
 
