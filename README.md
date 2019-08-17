@@ -6,7 +6,7 @@
 thème pour votre navigateur Firefox bleu avec dégrader et effet de flou.
 
 
-[Téléchargement](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.4.4/blueblur-0.4.4-an+fx.xpi)
+[Téléchargement de la version beta](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.4.4/blueblur-0.4.4-an+fx.xpi)
 
 ## Aperçu
 
@@ -21,11 +21,12 @@ thème pour votre navigateur Firefox bleu avec dégrader et effet de flou.
 ---
 
 
-## ![icon](/Darken-Nesios/icons/icon48.png) Thème Darken v0.1.2
+## ![icon](/Darken-Nesios/icons/icon32.png) Thème Darken v0.1.2
 
 Thème noir pour votre navigateur Mozilla Firefox.
+[Téléchargement  sur le site Addons.Mozilla](https://addons.mozilla.org/fr/firefox/addon/darken-nesios/)
+[Téléchargement de la version beta](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.1.2/darken-0.1.2-an+fx.xpi)
 
-[Téléchargement](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.1.2/darken-0.1.2-an+fx.xpi)
 
 ## Aperçu
 
@@ -33,4 +34,5 @@ Thème noir pour votre navigateur Mozilla Firefox.
 
 ### Dernières Modification 
 
-    (#1) Erreur de couleur sur la toolbar -> [#202020].
+    + (#1) Erreur de couleur sur la toolbar -> [#202020].
+    + (#2) Modification des couleurs de texte trop sombre [#C4C4C4].
