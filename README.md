@@ -19,3 +19,16 @@ thème pour votre navigateur Firefox bleu avec dégrader et effet de flou.
     + Recadrage des images.
 
 ---
+
+
+## ![icon](/Darken-Nesios/icons/icon48.png) Thème Darken v0.1.2
+
+Thème noir pour votre navigateur Mozilla Firefox.
+
+## Aperçu
+
+![Darken](/images/moztheme_darken.png)
+
+### Dernières Modification 
+
+    (#1) Erreur de couleur sur la toolbar -> [#202020].
