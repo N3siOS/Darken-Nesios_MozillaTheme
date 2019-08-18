@@ -35,8 +35,8 @@ Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue
 
 ## Aperçu
 
-![BlueBlur](/screenshot/moztheme_MC10years.png)
-![BlueBlur](/screenshot/MC10years_screenfull.png)
+![mc10years](/screenshot/moztheme_mc10years.png)
+![mc10years](/screenshot/mc10years_screenfull.png)
 
 ---
 
