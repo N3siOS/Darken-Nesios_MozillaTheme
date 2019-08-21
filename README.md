@@ -5,17 +5,16 @@
 
 Thème sombre pour votre navigateur Mozilla Firefox.
 
-> [Téléchargement  sur le site Addons.Mozilla.org](https://addons.mozilla.org/fr/firefox/addon/darken-nesios/)
+> [Téléchargement  sur le site Addons.Mozilla.org.](https://addons.mozilla.org/fr/firefox/addon/darken-nesios/)
 
-> [Téléchargement de la version beta](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.1.5-beta/darken_beta-0.1.5-an+fx.xpi)
+> [Téléchargement de la version beta.](https://github.com/N3siOS/myMozillaTheme/releases/download/v0.1.5-beta/darken_beta-0.1.5-an+fx.xpi)
 
 
 ## Aperçu
 
-![Darken](/screenshot/moztheme_darken.png)
+![Darken](./screenshot/moztheme_darken.png)
 
-
-![Darken](/screenshot/darken_screenfull.png)
+![Darken](./screenshot/darken_screenfull.png)
 
 ### Dernières Modification 
 
@@ -36,9 +35,9 @@ Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue
 
 ## Aperçu
 
-![mc10years](/screenshot/moztheme_mc10years.png)
+![mc10years](./screenshot/moztheme_mc10years.png)
 
-![mc10years](/screenshot/mc10years_screenfull.png)
+![mc10years](./screenshot/mc10years_screenfull.png)
 
 ### Dernières Modification 
 
@@ -56,9 +55,9 @@ Thème bleu claire pour votre navigateur Mozilla Firefox.
 
 ## Aperçu
 
-![BlueBlur-nesios](/screenshot/moztheme_blueblur.png)
+![BlueBlur-nesios](./screenshot/moztheme_blueblur.png)
 
-![BlueBlur-nesios](/screenshot/blueBlur_screenfull.png)
+![BlueBlur-nesios](./screenshot/blueBlur_screenfull.png)
 
 ### Dernières Modification 
 
