@@ -12,10 +12,10 @@ Thème sombre pour votre navigateur Mozilla Firefox.
 
 ## Aperçu
 
-![Darken](/screenshot/moztheme_darken.png)
+![Darken](screenshot/moztheme_darken.png)
 
 
-![Darken](/screenshot/darken_screenfull.png)
+![Darken](screenshot/darken_screenfull.png)
 
 ### Dernières Modification 
 
@@ -35,9 +35,9 @@ Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue
 
 ## Aperçu
 
-![mc10years](/screenshot/moztheme_mc10years.png)
+![mc10years](screenshot/moztheme_MC10years.png)
 
-![mc10years](/screenshot/mc10years_Screenfull.png)
+![mc10years](screenshot/MC10years_screenfull.png)
 
 ---
 
@@ -51,9 +51,9 @@ Thème bleu claire pour votre navigateur Mozilla Firefox.
 
 ## Aperçu
 
-![BlueBlur-nesios](/screenshot/moztheme_blueblur.png)
+![BlueBlur-nesios](screenshot/moztheme_blueblur.png)
 
-![BlueBlur-nesios](/screenshot/blueBlur_screenfull.png)
+![BlueBlur-nesios](screenshot/blueBlur_screenfull.png)
 
 ### Dernières Modification 
 
