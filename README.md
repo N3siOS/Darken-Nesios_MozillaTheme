@@ -12,16 +12,17 @@ Thème sombre pour votre navigateur Mozilla Firefox.
 
 ## Aperçu
 
-![Darken](screenshot/moztheme_darken.png)
+![Darken](/screenshot/moztheme_darken.png)
 
 
-![Darken](screenshot/darken_screenfull.png)
+![Darken](/screenshot/darken_screenfull.png)
 
 ### Dernières Modification 
 
     + (#1) Erreur de couleur sur la toolbar -> [#202020].
     + (#2) Modification des couleurs de texte trop sombre [#C4C4C4].
     + (#6) Ajouts de nouvelles fonctionnalitées.
+    + (#7) Recadrage des images.
 
 ---
 
@@ -35,9 +36,13 @@ Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue
 
 ## Aperçu
 
-![mc10years](screenshot/moztheme_MC10years.png)
+![mc10years](/screenshot/moztheme_mc10years.png)
 
-![mc10years](screenshot/MC10years_screenfull.png)
+![mc10years](/screenshot/mc10years_screenfull.png)
+
+### Dernières Modification 
+
+    + (#7) Recadrage des images.
 
 ---
 
@@ -59,6 +64,6 @@ Thème bleu claire pour votre navigateur Mozilla Firefox.
 
     + Résolution du problème d'image inverser. #2
     + Modification de la couleur de fond (#26B7F9).
-    + Recadrage des images.
+    + (#7) Recadrage des images.
 
 ---
