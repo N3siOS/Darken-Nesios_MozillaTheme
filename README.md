@@ -56,9 +56,9 @@ Thème bleu claire pour votre navigateur Mozilla Firefox.
 
 ## Aperçu
 
-![BlueBlur-nesios](screenshot/moztheme_blueblur.png)
+![BlueBlur-nesios](/screenshot/moztheme_blueblur.png)
 
-![BlueBlur-nesios](screenshot/blueBlur_screenfull.png)
+![BlueBlur-nesios](/screenshot/blueBlur_screenfull.png)
 
 ### Dernières Modification 
 
