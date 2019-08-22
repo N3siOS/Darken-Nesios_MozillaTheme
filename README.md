@@ -14,7 +14,7 @@ Thème sombre pour votre navigateur Mozilla Firefox.
 
 ![Darken](./screenshot/moztheme_darken.png)
 
-![Darken](./screenshot/darken_screenfull.png)
+![Darken-full](./screenshot/darken_screenfull.png)
 
 ### Dernières Modification 
 
@@ -25,19 +25,18 @@ Thème sombre pour votre navigateur Mozilla Firefox.
 
 ---
 
-## ![icon](/MC10years/icons/icon32.png) Thème Minecraft 10 ans v0.0.1
+## ![icon](/MC10years/icons/icon32.png) Thème Minecraft v0.0.1
 
 Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue pour les 10ans.
 
 > [Téléchargement  sur le site Addons.Mozilla.org](https://addons.mozilla.org/fr/firefox/addon/minecraft-10-years-theme/)
 
-> [Téléchargement de la version beta]()
 
 ## Aperçu
 
 ![mc10years](./screenshot/moztheme_mc10years.png)
 
-![mc10years](./screenshot/mc10years_screenfull.png)
+![mc10years-full](./screenshot/mc10years_screenfull.png)
 
 ### Dernières Modification 
 
@@ -57,7 +56,6 @@ Thème bleu claire pour votre navigateur Mozilla Firefox.
 
 ![BlueBlur-nesios](./screenshot/moztheme_blueblur.png)
 
-![BlueBlur-nesios](./screenshot/blueBlur_screenfull.png)
 
 ### Dernières Modification 
 
