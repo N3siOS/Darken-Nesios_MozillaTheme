@@ -1,7 +1,7 @@
 # Thèmes Mozilla Firefox - by Nesios
 
 
-## ![icon](/Darken-Nesios/icons/icon32.png) Thème Darken-Nesios v0.1.5
+## ![icon](/Darken-Nesios/icons/icon32.png) Thème Darken-Nesios v0.1.6
 
 Thème sombre pour votre navigateur Mozilla Firefox.
 
@@ -27,7 +27,7 @@ Thème sombre pour votre navigateur Mozilla Firefox.
 
 ## ![icon](/MC10years/icons/icon32.png) Thème Minecraft v0.0.1
 
-Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue pour les 10ans.
+Thème Minecraft bleu nuit pour votre navigateur Mozilla Firefox inspiré des images parue pour les 10ans du jeu.
 
 > [Téléchargement  sur le site Addons.Mozilla.org](https://addons.mozilla.org/fr/firefox/addon/minecraft-10-years-theme/)
 
@@ -44,7 +44,7 @@ Thème Minecraft pour votre navigateur Mozilla Firefox inspiré des images parue
 
 ---
 
-## ![icon](/blueBlur/icons/icon32.png) Thème BlueBlur v0.0.1
+## ![icon](/blueBlur/icons/icon32.png) Thème BlueBlur 0.0.1
 
 Thème bleu claire pour votre navigateur Mozilla Firefox.
 
