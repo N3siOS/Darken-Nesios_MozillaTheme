@@ -3,9 +3,9 @@
 
 ## ![icon](/Darken-Nesios/icons/icon32.png) Thème Darken-Nesios
 
-[version](https://img.shields.io/amo/v/darken-nesios?style=flat-square)
-[user](https://img.shields.io/amo/users/darken-nesios?style=social) 
-[download](https://img.shields.io/amo/dw/darken-nesios?style=social)
+![version](https://img.shields.io/amo/v/darken-nesios?style=flat-square)
+![user](https://img.shields.io/amo/users/darken-nesios?style=social) 
+![download](https://img.shields.io/amo/dw/darken-nesios?style=social)
 
 Thème sombre pour votre navigateur Mozilla Firefox.
 
