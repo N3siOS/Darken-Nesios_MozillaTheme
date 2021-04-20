@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "author": "Nesios",
   "name": "Darken",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "homepage_url": "https://github.com/N3siOS/myMozillaTheme",
   "icons": {
     "48": "icons/icon48.png",
@@ -25,6 +25,7 @@
       "tab_loading": "#E9E9E9",
       "tab_background_text": "#C4C4C4",
       "toolbar": "#202020",
+      "toolbar_top_separator": "#0D0C0C",
       "toolbar_bottom_separator": "#0D0C0C",
       "toolbar_field": "#0D0C0C",
       "toolbar_field_text": "#C4C4C4",
